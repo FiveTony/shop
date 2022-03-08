@@ -81,7 +81,7 @@ top: 50%;
   color: #26a69a;
 }
 #toast-container {
-    top: 3rem !important;
+    top: 2rem !important;
     animation: fade-in 250ms ease-in-out;
 }
 @keyframes fade-in {
